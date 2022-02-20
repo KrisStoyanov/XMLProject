@@ -16,13 +16,13 @@
     - Take item from the ground (R key);
     - Remove item from the inventory to the open world (drag item from inventory system to the side of the system and release);
   - Brand new inventory system:
-      - different slots for different items;
-      - can be recycled and used in other projects because of good implementations;
-  - pickable items:
-    - crates and barrels from the targets;
-    - other small items such as fireballs, normal balls, and sticks;
-    - health for regeneration;
-    - arrows that have been shot.
+      - Different slots for different items;
+      - Can be recycled and used in other projects because of good implementations;
+  - Pickable items:
+    - Crates and barrels from the targets;
+    - Other small items such as fireballs, normal balls, and sticks;
+    - Health for regeneration;
+    - Arrows that have been shot.
   ### If you are interested in using the project you can read the following:
     -If you want to add new pickable items just:
       - Create a prefab in "/Resources/Prefabs",
