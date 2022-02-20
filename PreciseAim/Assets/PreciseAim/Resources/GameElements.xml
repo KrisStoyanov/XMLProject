@@ -58,7 +58,7 @@
 					<scale>1 1 1</scale>
 				</Transform>
 				<speed>0.01</speed>
-				<cargo>crate</cargo>
+				<cargo>Crate</cargo>
 			</Balloon>
 			<Balloon>
 				<Transform>
@@ -82,7 +82,7 @@
 					<scale>1 1 1</scale>
 				</Transform>
 				<speed>0.02</speed>
-				<cargo>crate</cargo>
+				<cargo>Crate</cargo>
 			</Balloon>
 		</Balloons>
 		<Arrows>
