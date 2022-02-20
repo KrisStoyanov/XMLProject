@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<GameElements ArrowsCount="15">
+		<Torches>
+			<Torch>
+				<Transform>
+					<position>-17.55 2 9.281</position>
+					<rotation>0 -180 0</rotation>
+					<scale>1 1 1</scale>
+				</Transform>
+			</Torch>
+			<Torch>
+				<Transform>
+					<position>-10.41 2 9.28</position>
+					<rotation>0 -180 0</rotation>
+					<scale>1 1 1</scale>
+				</Transform>
+			</Torch>
+			<Torch>
+				<Transform>
+					<position>-23.309 4.435 1.59</position>
+					<rotation>0 90 0</rotation>
+					<scale>1 1 1</scale>
+				</Transform>
+			</Torch>
+			<Torch>
+				<Transform>
+					<position>-5.707 2 0.5799999</position>
+					<rotation>0 -90 0</rotation>
+					<scale>1 1 1</scale>
+				</Transform>
+			</Torch>
+			<Torch>
+				<Transform>
+					<position>-23.306 2 -1</position>
+					<rotation>0 90 0</rotation>
+					<scale>1 1 1</scale>
+				</Transform>
+			</Torch>
+			<Torch>
+				<Transform>
+					<position>-10.98 2 -9.33</position>
+					<rotation>0 0 0</rotation>
+					<scale>1 1 1</scale>
+				</Transform>
+			</Torch>
+			<Torch>
+				<Transform>
+					<position>-17.73 2 -9.35</position>
+					<rotation>0 0 0</rotation>
+					<scale>1 1 1</scale>
+				</Transform>
+			</Torch>
+		</Torches>
+		<Balloons>
+			<Balloon>
+				<Transform>
+					<position>-12.88963 2.276 6</position>
+					<scale>1 1 1</scale>
+				</Transform>
+				<speed>0.01</speed>
+				<cargo>crate</cargo>
+			</Balloon>
+			<Balloon>
+				<Transform>
+					<position>-11 2 -3</position>
+					<scale>1 1 1</scale>
+				</Transform>
+				<speed>0.015</speed>
+				<cargo>Barrel</cargo>
+			</Balloon>
+			<Balloon>
+				<Transform>
+					<position>-8 2.5 -7.5</position>
+					<scale>1 1 1</scale>
+				</Transform>
+				<speed>0.03</speed>
+				<cargo>Barrel</cargo>
+			</Balloon>
+			<Balloon>
+				<Transform>
+					<position>-21 3 -8</position>
+					<scale>1 1 1</scale>
+				</Transform>
+				<speed>0.02</speed>
+				<cargo>crate</cargo>
+			</Balloon>
+		</Balloons>
+		<Arrows>
+			<Arrow>
+				<Transform>
+					<position>-16.25527 0.357 6.5</position>
+				</Transform>
+			</Arrow>
+			<Arrow>
+				<Transform>
+					<position>-10.56 0.357 6.5</position>
+				</Transform>
+			</Arrow>
+			<Arrow>
+				<Transform>
+					<position>-10.56 0.357 -5.57</position>
+				</Transform>
+			</Arrow>
+			<Arrow>
+				<Transform>
+					<position>-13.35 0.357 -0.62</position>
+				</Transform>
+			</Arrow>
+		</Arrows>
+		<HealthPotions>
+			<HealthPotion>
+				<Transform>
+					<position>-19.61 0.312 1.76</position>
+				</Transform>
+				<Ammount>20</Ammount>
+			</HealthPotion>
+			<HealthPotion>
+				<Transform>
+					<position>-11.91 0.312 1.76</position>
+				</Transform>
+				<Ammount>30</Ammount>
+			</HealthPotion>
+		</HealthPotions>
+	</GameElements>
