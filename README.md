@@ -23,29 +23,29 @@
     - Other small items such as fireballs, normal balls, and sticks;
     - Health for regeneration;
     - Arrows that have been shot.
-  ### If you are interested in using the project you can read the following:
-    -If you want to add new pickable items just:
-      - Create a prefab in "/Resources/Prefabs",
-      - Name the prefab as you like, 
-      - Change Tag to "Pickable",
-      - Import your Inventory image and put it in "/Resources/Inventory2DItems" with the same name as the prefab,
-      - that is all.
-    -If you want to add more elements through the ".xml" file go to "/Resources/GameElements.xml"
-      - You can find different structures, every structure is an item, if you want to make one more items of some structure,
+## If you are interested in using the project you can read the following:
+   - If you want to add new pickable items just:
+     - Create a prefab in "/Resources/Prefabs",
+     - Name the prefab as you like, 
+     - Change Tag to "Pickable",
+     - Import your Inventory image and put it in "/Resources/Inventory2DItems" with the same name as the prefab,
+     - that is all.
+   - If you want to add more elements through the ".xml" file go to "/Resources/GameElements.xml"
+     - You can find different structures, every structure is an item, if you want to make one more items of some structure,
       copy it and change the variables that come with it. There are structures as follows:
-        - Torch:
-          - Position;
-          - Rotation;
-          - Scale.
-        - Balloon (target):
-          - Position;
-          - Scale;
-          - Speed;
-          - Cargo ( can be one of two: Crate or Barrel ( there can be changes, name of cargo must be the same as the name in the prefabs)).
-        - Arrows:
-          - Position.
-        - HealthPotion:
-          - Pisition;
-          - Ammount.
-        
-  
+       - Torch:
+         - Position;
+         - Rotation;
+         - Scale.
+       - Balloon (target):
+         - Position;
+         - Scale;
+         - Speed;
+         - Cargo ( can be one of two: Crate or Barrel ( there can be changes, name of cargo must be the same as the name in the prefabs)).
+       - Arrows:
+         - Position.
+       - HealthPotion:
+         - Pisition;
+         - Ammount.
+ # NB! A letter of Reference from the professor is attached to the project.    
+
