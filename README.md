@@ -31,7 +31,7 @@
       - Import your Inventory image and put it in "/Resources/Inventory2DItems" with the same name as the prefab,
       - that is all.
     -If you want to add more elements through the ".xml" file go to "/Resources/GameElements.xml"
-      - You can find different structures, every structure is an item, if you want to make one more item of some structure,
+      - You can find different structures, every structure is an item, if you want to make one more items of some structure,
       copy it and change the variables that come with it. There are structures as follows:
         - Torch:
           - Position;
@@ -41,7 +41,7 @@
           - Position;
           - Scale;
           - Speed;
-          - Cargo ( can be one of two: crate or Barrel ( there can be changes, name of cargo must be the same as the name in the prefabs)).
+          - Cargo ( can be one of two: Crate or Barrel ( there can be changes, name of cargo must be the same as the name in the prefabs)).
         - Arrows:
           - Position.
         - HealthPotion:
